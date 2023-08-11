@@ -9,6 +9,7 @@ fun main() {
     )
 }
 
+//This problem is of type take it or not take it of Dynamic Programming
 class Leetcode518Solution {
 
     val dp = HashMap<Pair<Int, Int>, Int>()
